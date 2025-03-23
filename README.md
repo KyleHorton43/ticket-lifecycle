@@ -105,9 +105,6 @@ john completed this ticket as well.
 In most ticketing systems, including osTicket: every update on a ticket triggers an email notification to the requester. This two-way communication helps keep users informed and gives them a chance to respond directly to the ticket thread.
 </p>
 <br />
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt=""/>
-</p>
 <br />
 
 <h2>🧠 Real-World Ticket Intake Explained</h2>
